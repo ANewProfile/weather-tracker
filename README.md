@@ -1,1 +1,3 @@
-# weather-tracker
+# Weather Tracker for Torres Del Paine National Park, Chile
+
+This app uses a Python script to call the Open-Meteo API to get both historical weather information for the location and the 7-day forecast. These values are saved into a csv file, and they are also displayed to the user. The goal of this app is to help people plan their packing for a hiking trip to the Torres Del Paine National Park in order to predict the typical weather ranges they might be facing. It is also easy to adjust this code to display the same weather information for different locations, given that you have the latitude and longitude coordinates of that location.
